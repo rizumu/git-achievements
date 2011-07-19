@@ -2,11 +2,7 @@
 <title>Thomas Schreiber's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Pedantic (Level 2)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
-<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Pedantic (Level 1)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
+<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
@@ -26,10 +22,4 @@
 <item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
-<item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Apprentice Presenter (Level 1)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
